@@ -4,7 +4,7 @@ public class AxeImpl implements Axe {
 
 	public String chop() {
 
-		return "¸«î^¿³²ËºÃÂý";
+		return "hello";
 	}
 
 }
